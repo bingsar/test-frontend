@@ -50,3 +50,4 @@ export * from "./dollar-sign";
 export * from "./chart-donut";
 export * from "./user-square";
 export * from "./line-through";
+export * from "./arrow-clockwise";

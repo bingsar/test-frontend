@@ -47,11 +47,13 @@ import {
 	ChartDonut,
 	UserSquare,
 	LineThrough,
+	ArrowClockwise,
 } from "@/components/svgs";
 
 export const icons = {
 	arrow: Arrow,
 	"arrow-up": ArrowUp,
+	arrowClockwise: ArrowClockwise,
 	close: Close,
 	menu: Menu,
 	"arrow-right": ArrowRight,
